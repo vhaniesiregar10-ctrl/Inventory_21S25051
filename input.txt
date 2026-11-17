@@ -1,0 +1,4 @@
+CLEAR
+ADD|Final|9|999
+LIST
+EXIT
